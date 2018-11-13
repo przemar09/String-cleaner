@@ -1,0 +1,7 @@
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\bin\Debug\StringCleaner.exe.config
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\bin\Debug\StringCleaner.exe
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\bin\Debug\StringCleaner.pdb
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\obj\Debug\StringCleaner.csprojResolveAssemblyReference.cache
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\obj\Debug\StringCleaner.csproj.CoreCompileInputs.cache
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\obj\Debug\StringCleaner.exe
+C:\Users\Programmer\Documents\Visual Studio 2017\StringCleaner\StringCleaner\obj\Debug\StringCleaner.pdb
